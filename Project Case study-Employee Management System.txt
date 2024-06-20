@@ -19,17 +19,5 @@ Employee details to be stored are as follows
 3.designation
 4.salary
 
-Array
-Employee object 
-ArrayList
 
-HashMap--key and value
-
-Employee
-PermanentEmployee
-ContractEmployee
-
-EmployeeService
-
-EmployeeRepository--store employee objects into a collection.
 
